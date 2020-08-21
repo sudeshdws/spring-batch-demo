@@ -1,0 +1,10 @@
+id,firstName,lastName,dateOfBirth,contactNumber,address,city,action
+1,Peter,Desuja,1980-11-11,2343454545,23 Road,Washinton,ADD
+2,Sam,Ronald,1980-11-11,2343454345,43 Road Springle,Nobel,ADD
+3,Ryan,Bold,1980-11-11,2343454444,54 Road Rewatch,Fransisko,ADD
+4,Sud,Broad,1988-11-11,5553454444,Finpin colony,Fransisko,ADD
+5,Robin,Buchlka,1988-11-12,4443454444,Finpin colony,Fransisko,ADD
+
+3,Ryan,Bold two,1980-11-11,2343454444,54 Road Rewatch,Fransisko,UPDATE
+
+3232323232323,Sam,Ronald,1980-11-11,2343454345,43 Road Springle,Nobel,DELETE
